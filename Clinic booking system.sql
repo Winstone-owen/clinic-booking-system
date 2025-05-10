@@ -1,5 +1,6 @@
 -- Create the database
 CREATE DATABASE ClinicBookingSystem;
+
 USE ClinicBookingSystem;
 
 -- Specialties Table
