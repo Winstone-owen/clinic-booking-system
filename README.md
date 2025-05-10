@@ -27,5 +27,6 @@ This project implements a full-featured **Clinic Booking System** using MySQL. I
 ```
 mysql -u your_username -p < ClinicBookingSchema.sql
 ```
+![image](https://github.com/user-attachments/assets/d2b95ec9-f0fa-46ca-a614-c33cfd2588c9)
 
 
