@@ -25,7 +25,7 @@ This project implements a full-featured **Clinic Booking System** using MySQL. I
      * Create all necessary tables with relationships and constraints.
 
 ```
-mysql -u your_username -p < ClinicBookingSchema.sql
+mysql -u your_username -p < ClinicBookingSystem.sql
 ```
 
 
